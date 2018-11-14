@@ -10,6 +10,7 @@ You think Bitcoin can't be tracked? You're so wrong!
 Resource
 * [Snowden Documents: NSA Worked to Track Bitcoin Users](http://truthinmedia.com/snowden-nsa-tracked-bitcoin-users/)
 * [THE NSA WORKED TO “TRACK DOWN” BITCOIN USERS, SNOWDEN DOCUMENTS REVEAL](https://theintercept.com/2018/03/20/the-nsa-worked-to-track-down-bitcoin-users-snowden-documents-reveal/)
+* [Wie "Lucky" demaskiert wurde [BKA]](https://www.golem.de/news/deutsche-darknet-groesse-wie-lucky-demaskiert-wurde-1811-137709.html) [Mirror](https://www.heise.de/newsticker/meldung/Betreiber-eines-Darknet-Forums-in-Karlsruhe-festgenommen-3740829.html)
 
 
 Documents
